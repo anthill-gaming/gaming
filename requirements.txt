@@ -28,3 +28,6 @@
 -r report/requirements.txt
 -r social/requirements.txt
 -r store/requirements.txt
+
+# Tools
+-r tools/requirements.txt
