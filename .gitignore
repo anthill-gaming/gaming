@@ -1,7 +1,8 @@
-*.pyc
 *.log
+*.pyc
 *.sql
 *.bak
 *.tmp
 *~
+*.mmdb
 .idea

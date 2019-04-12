@@ -1,0 +1,30 @@
+# General packages
+-r anthill/framework/requirements.txt
+-r anthill/platform/requirements.txt
+
+# Services packages
+-r admin/requirements.txt
+-r apigw/requirements.txt
+-r backup/requirements.txt
+-r bot/requirements.txt
+-r config/requirements.txt
+-r discovery/requirements.txt
+-r dlc/requirements.txt
+-r event/requirements.txt
+-r environment/requirements.txt
+-r event/requirements.txt
+-r exec/requirements.txt
+-r game_controller/requirements.txt
+-r game_master/requirements.txt
+-r leaderboard/requirements.txt
+-r log/requirements.txt
+-r login/requirements.txt
+-r media/requirements.txt
+-r message/requirements.txt
+-r moderation/requirements.txt
+-r blog/requirements.txt
+-r profile/requirements.txt
+-r promo/requirements.txt
+-r report/requirements.txt
+-r social/requirements.txt
+-r store/requirements.txt

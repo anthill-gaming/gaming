@@ -1,0 +1,94 @@
+{
+  "admin": {
+    "internal": "http://localhost:9600",
+    "external": "http://localhost:9600"
+  },
+  "discovery": {
+    "internal": "http://localhost:9602",
+    "external": "http://localhost:9602"
+  },
+  "dlc": {
+    "internal": "http://localhost:9605",
+    "external": "http://localhost:9605"
+  },
+  "event": {
+    "internal": "http://localhost:9606",
+    "external": "http://localhost:9606"
+  },
+  "login": {
+    "internal": "http://localhost:9607",
+    "external": "http://localhost:9607"
+  },
+  "profile": {
+    "internal": "http://localhost:9608",
+    "external": "http://localhost:9608"
+  },
+  "message": {
+    "internal": "http://localhost:9609",
+    "external": "http://localhost:9609"
+  },
+  "exec": {
+    "internal": "http://localhost:9610",
+    "external": "http://localhost:9610"
+  },
+  "config": {
+    "internal": "http://localhost:9611",
+    "external": "http://localhost:9611"
+  },
+  "promo": {
+    "internal": "http://localhost:9612",
+    "external": "http://localhost:9612"
+  },
+  "store": {
+    "internal": "http://localhost:9613",
+    "external": "http://localhost:9613"
+  },
+  "social": {
+    "internal": "http://localhost:9614",
+    "external": "http://localhost:9614"
+  },
+  "media": {
+    "internal": "http://localhost:9615",
+    "external": "http://localhost:9615"
+  },
+  "apigw": {
+    "internal": "http://localhost:9616",
+    "external": "http://localhost:9616"
+  },
+  "environment": {
+    "internal": "http://localhost:9617",
+    "external": "http://localhost:9617"
+  },
+  "game_master": {
+    "internal": "http://localhost:9618",
+    "external": "http://localhost:9618"
+  },
+  "report": {
+    "internal": "http://localhost:9620",
+    "external": "http://localhost:9620"
+  },
+  "leaderboard": {
+    "internal": "http://localhost:9621",
+    "external": "http://localhost:9621"
+  },
+  "log": {
+    "internal": "http://localhost:9622",
+    "external": "http://localhost:9622"
+  },
+  "moderation": {
+    "internal": "http://localhost:9623",
+    "external": "http://localhost:9623"
+  },
+  "blog": {
+    "internal": "http://localhost:9624",
+    "external": "http://localhost:9624"
+  },
+  "backup": {
+    "internal": "http://localhost:9625",
+    "external": "http://localhost:9625"
+  },
+  "bot": {
+    "internal": "http://localhost:9626",
+    "external": "http://localhost:9626"
+  }
+}
