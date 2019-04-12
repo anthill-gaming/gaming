@@ -73,6 +73,3 @@
 [submodule "tools"]
 	path = tools
 	url = https://github.com/anthill-gaming/tools.git
-[submodule "anthill"]
-	path = anthill
-	url = https://github.com/anthill-gaming/anthill.git
