@@ -70,3 +70,9 @@
 [submodule "admin"]
 	path = admin
 	url = https://github.com/anthill-gaming/admin.git
+[submodule "tools"]
+	path = tools
+	url = https://github.com/anthill-gaming/tools.git
+[submodule "anthill"]
+	path = anthill
+	url = https://github.com/anthill-gaming/anthill.git
