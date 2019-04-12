@@ -1,0 +1,7 @@
+*.pyc
+*.log
+*.sql
+*.bak
+*.tmp
+*~
+.idea
