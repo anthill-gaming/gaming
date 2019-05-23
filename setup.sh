@@ -1,5 +1,4 @@
 #!/usr/bin/env bash
-# bash -c "$(curl -sL https://raw.githubusercontent.com/iepathos/reqs/master/download.sh)"
 
 OS=${OSTYPE//[0-9.-]*/}
 python="/usr/bin/env python3"
