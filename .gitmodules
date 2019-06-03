@@ -76,3 +76,6 @@
 [submodule "anthill"]
 	path = anthill
 	url = https://github.com/anthill-arch/anthill.git
+[submodule "market"]
+	path = market
+	url = git@github.com:anthill-gaming/market.git

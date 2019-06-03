@@ -90,5 +90,9 @@
   "bot": {
     "internal": "http://localhost:9626",
     "external": "http://localhost:9626"
+  },
+  "market": {
+    "internal": "http://localhost:9627",
+    "external": "http://localhost:9627"
   }
 }

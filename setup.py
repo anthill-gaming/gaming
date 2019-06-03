@@ -85,6 +85,7 @@ setup(
         'anthill.game-controller',
         'anthill.leaderboard',
         'anthill.login',
+        'anthill.market',
         'anthill.media',
         'anthill.message',
         'anthill.moderation',

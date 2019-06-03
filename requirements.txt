@@ -19,6 +19,7 @@
 -r leaderboard/requirements.txt
 -r log/requirements.txt
 -r login/requirements.txt
+-r market/requirements.txt
 -r media/requirements.txt
 -r message/requirements.txt
 -r moderation/requirements.txt
