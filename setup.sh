@@ -38,6 +38,7 @@ source game_master/setup.sh
 source leaderboard/setup.sh
 source log/setup.sh
 source login/setup.sh
+source market/setup.sh
 source media/setup.sh
 source message/setup.sh
 source moderation/setup.sh
