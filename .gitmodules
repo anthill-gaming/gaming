@@ -1,81 +1,81 @@
 [submodule "store"]
 	path = store
-	url = https://github.com/anthill-gaming/store.git
+	url = git@github.com:anthill-gaming/store.git
 [submodule "social"]
 	path = social
-	url = https://github.com/anthill-gaming/social.git
+	url = git@github.com:anthill-gaming/social.git
 [submodule "report"]
 	path = report
-	url = https://github.com/anthill-gaming/report.git
+	url = git@github.com:anthill-gaming/report.git
 [submodule "promo"]
 	path = promo
-	url = https://github.com/anthill-gaming/promo.git
+	url = git@github.com:anthill-gaming/promo.git
 [submodule "profile"]
 	path = profile
-	url = https://github.com/anthill-gaming/profile.git
+	url = git@github.com:anthill-gaming/profile.git
 [submodule "moderation"]
 	path = moderation
-	url = https://github.com/anthill-gaming/moderation.git
+	url = git@github.com:anthill-gaming/moderation.git
 [submodule "message"]
 	path = message
-	url = https://github.com/anthill-gaming/message.git
+	url = git@github.com:anthill-gaming/message.git
 [submodule "media"]
 	path = media
-	url = https://github.com/anthill-gaming/media.git
+	url = git@github.com:anthill-gaming/media.git
 [submodule "login"]
 	path = login
-	url = https://github.com/anthill-gaming/login.git
+	url = git@github.com:anthill-gaming/login.git
 [submodule "log"]
 	path = log
-	url = https://github.com/anthill-gaming/log.git
+	url = git@github.com:anthill-gaming/log.git
 [submodule "leaderboard"]
 	path = leaderboard
-	url = https://github.com/anthill-gaming/leaderboard.git
+	url = git@github.com:anthill-gaming/leaderboard.git
 [submodule "game_master"]
 	path = game_master
-	url = https://github.com/anthill-gaming/game_master.git
+	url = git@github.com:anthill-gaming/game_master.git
 [submodule "game_controller"]
 	path = game_controller
-	url = https://github.com/anthill-gaming/game_controller.git
+	url = git@github.com:anthill-gaming/game_controller.git
 [submodule "exec"]
 	path = exec
-	url = https://github.com/anthill-gaming/exec.git
+	url = git@github.com:anthill-gaming/exec.git
 [submodule "event"]
 	path = event
-	url = https://github.com/anthill-gaming/event.git
+	url = git@github.com:anthill-gaming/event.git
 [submodule "environment"]
 	path = environment
-	url = https://github.com/anthill-gaming/environment.git
+	url = git@github.com:anthill-gaming/environment.git
 [submodule "dlc"]
 	path = dlc
-	url = https://github.com/anthill-gaming/dlc.git
+	url = git@github.com:anthill-gaming/dlc.git
 [submodule "discovery"]
 	path = discovery
-	url = https://github.com/anthill-gaming/discovery.git
+	url = git@github.com:anthill-gaming/discovery.git
 [submodule "config"]
 	path = config
-	url = https://github.com/anthill-gaming/config.git
+	url = git@github.com:anthill-gaming/config.git
 [submodule "bot"]
 	path = bot
-	url = https://github.com/anthill-gaming/bot.git
+	url = git@github.com:anthill-gaming/bot.git
 [submodule "blog"]
 	path = blog
-	url = https://github.com/anthill-gaming/blog.git
+	url = git@github.com:anthill-gaming/blog.git
 [submodule "backup"]
 	path = backup
-	url = https://github.com/anthill-gaming/backup.git
+	url = git@github.com:anthill-gaming/backup.git
 [submodule "apigw"]
 	path = apigw
-	url = https://github.com/anthill-gaming/apigw.git
+	url = git@github.com:anthill-gaming/apigw.git
 [submodule "admin"]
 	path = admin
-	url = https://github.com/anthill-gaming/admin.git
+	url = git@github.com:anthill-gaming/admin.git
 [submodule "tools"]
 	path = tools
-	url = https://github.com/anthill-gaming/tools.git
+	url = git@github.com:anthill-gaming/tools.git
 [submodule "anthill"]
 	path = anthill
-	url = https://github.com/anthill-arch/anthill.git
+	url = git@github.com:anthill-arch/anthill.git
 [submodule "market"]
 	path = market
 	url = git@github.com:anthill-gaming/market.git
