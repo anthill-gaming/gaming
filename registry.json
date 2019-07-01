@@ -94,5 +94,9 @@
   "market": {
     "internal": "http://localhost:9627",
     "external": "http://localhost:9627"
+  },
+  "vote": {
+    "internal": "http://localhost:9628",
+    "external": "http://localhost:9628"
   }
 }

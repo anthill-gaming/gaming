@@ -95,6 +95,7 @@ setup(
         'anthill.report',
         'anthill.social',
         'anthill.store',
+        'anthill.vote',
     ],
     extras_require={
 

@@ -30,3 +30,6 @@
 -r social/requirements.txt
 -r store/requirements.txt
 -r vote/requirements.txt
+
+# Tools
+-r tools/requirements.txt

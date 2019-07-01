@@ -48,6 +48,7 @@ source promo/setup.sh
 source report/setup.sh
 source social/setup.sh
 source store/setup.sh
+source vote/setup.sh
 
 echo
 echo "Updating geoip databases..."

@@ -79,3 +79,6 @@
 [submodule "market"]
 	path = market
 	url = git@github.com:anthill-gaming/market.git
+[submodule "vote"]
+	path = vote
+	url = git@github.com:anthill-gaming/vote.git
