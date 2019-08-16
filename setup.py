@@ -58,7 +58,7 @@ setup(
     url='https://github.com/0x55AAh/anthill_gaming',
     author='woland',
     author_email='wofkin@gmail.com',
-    description='',
+    description='Distributive back-end services platform for games based on micro-services infrastructure.',
     long_description=read('README.rst'),
     license='BSD',
     packages=find_packages(exclude=EXCLUDE_FROM_PACKAGES),
